@@ -1,1 +1,2 @@
 # helloworld
+<!---Unlike the default behavior for github pages, using the repo name as the subdirectory of the url, or even setting the subdirectory of the url manually, doesn’t work on Cloudflare Pages without adding a page rule, of which you only get 3 for free. "This redirect rule is being ignored together with a warning about the redirect causing an invite loop (which is true of course, but that’s not the expected / intended behaviour)"---!>
